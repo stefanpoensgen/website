@@ -1,0 +1,52 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/stefanpoensgen/stefanpoensgen/main/README.md?token=GHSAT0AAAAAABQG7DDIVIDOFTC33PAXJSC2YUJLYPQ",
+  "title": "Stefan Poensgen",
+  "name": "Stefan Poensgen",
+  "ascii": "stefanpoensgen",
+  "social": {
+    "github": "stefanpoensgen",
+    "xing": "Stefan_Poensgen2"
+  },
+  "projects": {
+    "jptec": {
+      "link": "jp-tec.de",
+      "description": "Shopware 5 - Unique product filter based on KBA car database"
+    },
+    "pokalkoenig": {
+      "link": "pokalkoenig.de",
+      "description": "Shopware 6 - Unique target group filter with custom products integration"
+    },
+    "froshShareBasket": {
+      "link": "github.com/FriendsOfShopware/FroshShareBasket",
+      "description": "Shopware 5 - Plugin"
+    },
+    "froshPlatformShareBasket": {
+      "link": "github.com/FriendsOfShopware/FroshPlatformShareBasket",
+      "description": "Shopware 6 - Plugin"
+    }
+  },
+  "email": "mail@stefanpoensgen.de",
+  "ps1_hostname": "stefanpoensgen",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/stefanpoensgen/website",
+  "colors": {
+    "light": {
+      "background": "#FFFFDB",
+      "foreground": "#282a36",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#8B6BB9",
+      "blue": "#67AFC0",
+      "red": "#ff5555"
+    },
+    "dark": {
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    }
+  }
+}
