@@ -11,5 +11,5 @@
   ];
 
   languages.javascript.enable = true;
-  languages.javascript.package = pkgs.nodejs-18_x;
+  languages.javascript.package = pkgs.nodejs-19_x;
 }
