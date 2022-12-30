@@ -3,9 +3,11 @@
   "title": "Stefan Poensgen",
   "name": "Stefan Poensgen",
   "ascii": "stefanpoensgen",
+  "profession": "Freelancer \uD83D\uDCBB Shopware \uD83D\uDC99 Symfony \uD83C\uDFB5 PHP \uD83D\uDC18",
   "social": {
     "github": "stefanpoensgen",
-    "xing": "Stefan_Poensgen2"
+    "xing": "Stefan_Poensgen2",
+    "linkedin": "stefan-poensgen-394b1a245"
   },
   "projects": {
     "jptec": {
@@ -29,7 +31,7 @@
   "ps1_hostname": "stefanpoensgen",
   "ps1_username": "visitor",
   "repo": "https://github.com/stefanpoensgen/website",
-  "ssh": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC56m9SFkK81eoUDtSsK9CAuJcDMd5NEvHGKWRlAwvfSF3ek49OdjuXGAgrMvs/vlFhl0QD8lobecnVeuvZI0EeNWcb8EawXMaK6883ckj2AEPwCMmBReOoGK9t1iKNJKAYqhpW7sEtvGZi/MyalZinv8iL7dYiVIC7mjOKr6sm00vuHP68yTnKhyw2IdTeJzlUYdQ3/pT3dzF4EvTnZn4Gv4VC3/J3503Dc2Mi9a+GCBOJ8+dWElt3ojXXcU1hG2/CO898p+/Qe1qO35VpCXmUY6rulkDqcSpM3Fxm4cob4x9Sm1c3mucuwDZcrdNvGbQlYRso3YJrhcCBNzOKsX+qRp7qDqKM6WGzzGpeJT8lx1KAmdddNITMdoj3YIseN7M9jpFiftzaAV5Rxq/IxISBEs0tmbrxTbxR5Hbr3pK2cdnWTN7VCsM+DDh1ua4NF2qybKDPZnXv5GbqMxixSqMKff6cT1md4xYNcqxZ4pAQ9CueJP8mAd/csfk+IKDwVcxORsiPy9sXDOfEocf47CAAPVHI6Z+VrrnMtqzPa5aB8lw6m/mwB+0YQ2mMEcXQyZPgz6R/h6X7Ykv/j1/XzADg6RtydcsyWYyjR0NSS0PxFNe+LxhUy85d7h/ymzWKrYANqNq4wXPD3PpIIAOQuELZATFi3c1hVo3Im8lz8QFHvw== mail@stefanpoensgen.de",
+  "ssh": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMfpOJ4Ze/pJ0THz2dFNZhtWaGW3xrwt87fc3YE3OZ3j",
   "colors": {
     "light": {
       "background": "#FFFFDB",

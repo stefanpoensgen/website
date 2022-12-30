@@ -7,7 +7,7 @@ import { copySsh } from '../api';
 // Help
 export const help = async (args: string[]): Promise<string> => {
   const commands = Object.keys(bin).sort().join(', ');
-  var c = '';
+  let c = '';
   for (let i = 1; i <= Object.keys(bin).sort().length; i++) {
     if (i % 7 === 0) {
       c += Object.keys(bin).sort()[i - 1] + '\n';
@@ -31,7 +31,7 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
+  return `Hi, I am ${config.name} - ${config.profession} 
 Welcome to my website!
 More about me:
 'sumfetch' - short summary.
@@ -113,7 +113,9 @@ export const banner = (args?: string[]): string => {
 ██╔═══╝ ██║   ██║██╔══╝  ██║╚██╗██║╚════██║██║   ██║██╔══╝  ██║╚██╗██║
 ██║     ╚██████╔╝███████╗██║ ╚████║███████║╚██████╔╝███████╗██║ ╚████║
 ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝
-                                                                      
+
+${config.profession}
+
 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.

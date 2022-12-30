@@ -38,7 +38,9 @@ const IndexPage: React.FC<IndexPageProps> = ({ inputRef }) => {
   return (
     <>
       <Head>
-        <title>{config.title}</title>
+        <title>
+          {config.title} - {config.profession}
+        </title>
       </Head>
 
       <div className="p-8 overflow-hidden h-full border-2 rounded border-light-yellow dark:border-dark-yellow">
