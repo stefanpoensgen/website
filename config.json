@@ -37,7 +37,7 @@
   "projects": [
     {
       "date": "2022",
-      "title": "Custom Product Shopware 6 e-commerce Platform",
+      "title": "Custom Product Shopware 6 Shop",
       "description": "Development of a custom products Shopware 6 shop with advanced customization options and targeted filtering. Utilizing CI container management for seamless deployments.",
       "stack": "PHP8, Shopware 6, RabbitMQ, VueJS, Docker"
     },
@@ -55,7 +55,7 @@
     },
     {
       "date": "2019",
-      "title": "Content-Driven Shopware 6 E-commerce Platform",
+      "title": "Content-Driven Shopware 6 Shop",
       "description": "Development of a content-driven e-commerce platform using Shopware 6, earning recognition as one of the 10 most beautiful Shopware 6 shops. Features extensive content management modules for editor ease of use and compliance with CI standards.",
       "stack": "Shopware 6, PHP7, VueJS, Elasticsearch"
     }
