@@ -9,24 +9,6 @@
     "xing": "Stefan_Poensgen2",
     "linkedin": "stefan-poensgen-394b1a245"
   },
-  "projects": {
-    "jptec": {
-      "link": "jp-tec.de",
-      "description": "Shopware 5 - Unique product filter based on KBA car database"
-    },
-    "pokalkoenig": {
-      "link": "pokalkoenig.de",
-      "description": "Shopware 6 - Unique target group filter with custom products integration"
-    },
-    "froshShareBasket": {
-      "link": "github.com/FriendsOfShopware/FroshShareBasket",
-      "description": "Shopware 5 - Plugin"
-    },
-    "froshPlatformShareBasket": {
-      "link": "github.com/FriendsOfShopware/FroshPlatformShareBasket",
-      "description": "Shopware 6 - Plugin"
-    }
-  },
   "email": "mail@stefanpoensgen.de",
   "ps1_hostname": "stefanpoensgen",
   "ps1_username": "visitor",
@@ -51,5 +33,31 @@
       "blue": "#8be9fd",
       "red": "#ff5555"
     }
-  }
+  },
+  "projects": [
+    {
+      "date": "2022",
+      "title": "Custom Product Shopware 6 e-commerce Platform",
+      "description": "Development of a custom products Shopware 6 shop with advanced customization options and targeted filtering. Utilizing CI container management for seamless deployments.",
+      "stack": "PHP8, Shopware 6, RabbitMQ, VueJS, Docker"
+    },
+    {
+      "date": "2022",
+      "title": "Algolia Search Implementation",
+      "description": "Implementation of Algolia Search as an instant search engine for products and custom entities within Shopware 6.",
+      "stack": "PHP8, Shopware 6, Algolia JS"
+    },
+    {
+      "date": "2020 - 2022",
+      "title": "Instant Job PWA",
+      "description": "Design and development of a job placement and hiring platform with real-time map tracking and instant messaging capabilities. Emphasis placed on high software quality through extensive use of phpunit for test coverage and phpstan for static code analysis. Additionally, every component of the application was containerized using Docker and delivered in a scalable manner on the AWS cloud.",
+      "stack": "Symfony 6, PHP8, API Platform, AWS, Docker, VueJS"
+    },
+    {
+      "date": "2019",
+      "title": "Content-Driven Shopware 6 E-commerce Platform",
+      "description": "Development of a content-driven e-commerce platform using Shopware 6, earning recognition as one of the 10 most beautiful Shopware 6 shops. Features extensive content management modules for editor ease of use and compliance with CI standards.",
+      "stack": "Shopware 6, PHP7, VueJS, Elasticsearch"
+    }
+  ]
 }
