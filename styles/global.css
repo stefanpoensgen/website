@@ -38,3 +38,33 @@ div#__next > div {
 ::-webkit-scrollbar-thumb:hover {
   background: #d79921;
 }
+
+.banner {
+  display: flex;
+  flex-direction: column;
+  white-space: pre;
+  justify-content: space-between;
+}
+
+.banner > div:nth-child(2) {
+  padding-top: 10px;
+  max-width: 150px;
+}
+
+.projects {
+  max-width: 85vw;
+}
+
+@media (min-width: 1024px) {
+  .banner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .banner > div:nth-child(2) {
+    padding-top: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 250px;
+  }
+}

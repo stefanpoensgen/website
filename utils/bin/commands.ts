@@ -88,7 +88,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 
 // Banner
 export const banner = (args?: string[]): string => {
-  return `
+  return `<div class="banner"><div>
 ███████╗████████╗███████╗███████╗ █████╗ ███╗   ██╗                   
 ██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗████╗  ██║                   
 ███████╗   ██║   █████╗  █████╗  ███████║██╔██╗ ██║                   
@@ -102,7 +102,7 @@ export const banner = (args?: string[]): string => {
 ██╔═══╝ ██║   ██║██╔══╝  ██║╚██╗██║╚════██║██║   ██║██╔══╝  ██║╚██╗██║
 ██║     ╚██████╔╝███████╗██║ ╚████║███████║╚██████╔╝███████╗██║ ╚████║
 ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝
-
+</div><div><img src="/assets/me.jpg" alt="${config.name}" width="250" height="250" /></div></div>
 ${config.profession}
 
 
