@@ -7,7 +7,7 @@
   "separateMajorMinor": false,
   "groupSlug": "all",
   "schedule": [
-    "first monday of the month"
+    "0 0 1 * *"
   ],
   "packageRules": [
     {
