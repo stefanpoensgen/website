@@ -6,6 +6,9 @@
   "groupName": "all dependencies",
   "separateMajorMinor": false,
   "groupSlug": "all",
+  "schedule": [
+    "first monday of the month"
+  ],
   "packageRules": [
     {
       "matchPackagePatterns": [
