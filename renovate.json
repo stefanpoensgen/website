@@ -1,19 +1,15 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:base"
-  ],
+  "extends": ["config:recommended"],
   "groupName": "all dependencies",
   "separateMajorMinor": false,
   "groupSlug": "all",
-  "schedule": [ "* 0 1 * *" ],
+  "schedule": ["* 0 1 * *"],
   "packageRules": [
     {
-      "matchPackagePatterns": [
-        "*"
-      ],
       "groupName": "all dependencies",
-      "groupSlug": "all"
+      "groupSlug": "all",
+      "matchPackageNames": ["*"]
     }
   ],
   "lockFileMaintenance": {
