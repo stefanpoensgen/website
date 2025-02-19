@@ -6,7 +6,7 @@
   "groupName": "all dependencies",
   "separateMajorMinor": false,
   "groupSlug": "all",
-  "schedule": [ "* 2-3 * * 1" ],
+  "schedule": [ "0 0 1 * *" ],
   "packageRules": [
     {
       "matchPackagePatterns": [
